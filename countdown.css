@@ -1,0 +1,62 @@
+@charset "UTF-8";
+
+body{
+  padding: 100px;
+  font-family:sans-serif;
+   background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+}
+
+.well{
+  font-size: 13px ;
+  padding: 0;
+  background-color: #c4dfd4 !important;
+ 
+}
+
+.chrono{
+  font-size: 60px;
+  padding: 0 ;
+}
+
+.btn-default{
+  background-color: rgb(237, 237, 237);
+}
+.btn{
+  border-radius: 0;
+  padding-top: 15px ;
+  padding-bottom: 15px ;
+  font-size: 13px ;
+  background-color: #eedeb2 !important;
+}
+
+.well_init{
+  padding: 10px ;
+  box-shadow: 1px 1px 3px #4c909b;
+}
+
+#timeselect{
+    width: 80px;
+}
+#ok{
+    margin-left: 25%;
+    position: absolute;
+    top: 235px;
+    
+}
+#timeover{
+    font-size: 70px;
+    font-family: 'Eater', cursive;
+    margin-top: 20%;
+    margin-left: 8%;
+   visibility:hidden;
+    
+}
+footer div#copyright{
+    
+    margin-top: 140px;
+    font-weight: bold;
+    color: grey;
+    
+  
+    
+}
